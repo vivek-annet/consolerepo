@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication2
 {
-    class TestApplication
+    public class TestApplication
     {
     }
 }
