@@ -7,5 +7,6 @@ namespace ConsoleApplication2
 {
     public class Test
     {
+        //private
     }
 }
