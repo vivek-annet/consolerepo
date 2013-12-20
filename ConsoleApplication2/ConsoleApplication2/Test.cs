@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication2
 {
-    public class Test
+    public class Test1
     {
         //private
     }
